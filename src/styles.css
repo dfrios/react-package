@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-crazy: oklch(0.5589 0.099 217.39);
+}
